@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+   <id>resourcehacker</id>
+    <version>4.5.30</version>
+    <packageSourceUrl>https://github.com/hansnull/chocolatey-resourcehacker-package</packageSourceUrl>
+    <owners>hans0</owners>
+    <title>Resource Hacker (Install)</title>
+    <authors>Angus Johnson</authors>
+    <projectUrl>http://www.angusj.com/resourcehacker/</projectUrl>
+    <iconUrl>http://www.downloadmug.com/wp-content/uploads/2015/06/Resource-Hacker-logo-icon.jpg</iconUrl>
+    <copyright>1999-2016 Angus Johnson</copyright>
+    <licenseUrl>http://www.angusj.com/resourcehacker/</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <tags>resourcehacker admin resource hacker delphi res</tags>
+    <summary>Resource Hacker™ has been designed to be the complete resource editing tool.</summary>
+    <description>Resource Hacker™ has been designed to be the complete resource editing tool: compiling, viewing, decompiling and recompiling resources for both 32bit and 64bit Windows executables. Resource Hacker™ can open any type of Windows executable (*.exe; *.dll; *.scr; *.mui etc) so that individual resources can be added modified or deleted within these files. Resource Hacker™ can create and compile resource script files (*.rc), and edit resource files (*.res) too.</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
