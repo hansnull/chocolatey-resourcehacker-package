@@ -1,2 +1,2 @@
 # chocolatey-resourcehacker-package
-Resource Hacker package for chocolatey
+Resource Hacker (http://www.angusj.com/resourcehacker/) package for chocolatey
